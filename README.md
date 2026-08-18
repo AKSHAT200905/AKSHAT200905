@@ -18,7 +18,7 @@
 
 I'm a third-year Information Technology student at **Dwarkadas J. Sanghvi College of Engineering (DJSCE)**. I'm currently building strong foundations in **Machine Learning** and **Computer Vision**, while sharpening my problem-solving skills through consistent **Data Structures & Algorithms** practice.
 
-- 🔭 Currently strengthening DSA fundamentals in C++ and solved over 175+ LeetCode Problems
+- 🔭 Currently strengthening DSA fundamentals in C++ and solved over 240+ LeetCode Problems
 -  🏆 1★ on CodeChef and participating to gain improvemnt in Problem Solving Skills
 - 🌱 Learning the basics of Machine Learning and Computer Vision
 - 💬 Open to feedback, collaboration, and learning opportunities
