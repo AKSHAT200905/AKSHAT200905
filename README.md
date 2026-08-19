@@ -35,6 +35,7 @@ I'm a third-year Information Technology student at **Dwarkadas J. Sanghvi Colleg
 
 ### 📫 Connect With Me
 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/AkJain2005/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-jain-8b447b345/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef%201★-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/akshatjain05)
 
