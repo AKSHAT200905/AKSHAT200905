@@ -20,7 +20,7 @@ I'm a third-year Information Technology student at **Dwarkadas J. Sanghvi Colleg
 
 - 🔭 Currently strengthening DSA fundamentals in C++ and solved over 350+ LeetCode Problems
 -  🏆 2★ on CodeChef with a rating of 1505 and participating to gain improvemnt in Problem Solving Skills
--  1168 rating on Codeforces
+-  Pupil - 1233 @Codeforces
 - 🌱 Learning the basics of Machine Learning and Computer Vision
 - 💬 Open to feedback, collaboration, and learning opportunities
 
