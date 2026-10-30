@@ -140,8 +140,8 @@ My running collection of DSA solutions in C++, from arrays and hashing to recurs
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AKSHAT200905&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub profile statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHAT200905&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Most-used languages on GitHub" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="170" alt="GitHub profile statistics" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="170" alt="Most-used languages on GitHub" />
 </div>
 
 ---
