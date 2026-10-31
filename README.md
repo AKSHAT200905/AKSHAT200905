@@ -43,11 +43,11 @@ Most days also include some competitive programming. I've solved 560+ DSA proble
     <td width="24%" valign="top">
       <h3>CSI DJSCE</h3>
       <b>Operations Team Member, Logistics</b><br />
-      <sub>2025 to Present</sub><br /><br />
+      <sub>Aug 2025 to May 2026</sub><br /><br />
       <img src="https://img.shields.io/badge/Leadership-Computer%20Society%20of%20India-2563eb?style=flat-square" alt="Computer Society of India" />
     </td>
     <td valign="top">
-      I'm part of the operations team for the DJSCE chapter of the Computer Society of India, where I handle logistics for the chapter's events. I manage budgets and procurement for the creatives team, work with vendors and negotiate prices to bring costs down, and fix the bottlenecks that slow an event down before they turn into problems on the day.
+      I was part of the operations team for the DJSCE chapter of the Computer Society of India, where I handled logistics for the chapter's events. I managed budgets and procurement for the creatives team, worked with vendors and negotiated prices to bring costs down, and fixed the bottlenecks that slow an event down before they turned into problems on the day.
       <br /><br />
       <b>What this taught me:</b> most problems are cheaper to solve before they happen. Planning for the thing that goes wrong is the same habit that makes software reliable.
     </td>
