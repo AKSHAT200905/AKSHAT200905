@@ -20,7 +20,7 @@ That question is what pulled me towards **computer vision**. Detecting a soldier
 
 On the ML side, I worked on **CamoVision X**, a detection and segmentation pipeline for camouflaged soldiers and weapons, and I'm now building an **AI traffic system** for Indian roads. On the backend side, I built **TradeRecon**, a microservices platform that reconciles trades between a trading desk and a custodian bank.
 
-Most days also include some competitive programming. I've solved 560+ DSA problems in C++, and I enjoy the way a hard problem forces you to think clearly. Away from the screen, you'll find me into athletics, reading, or exploring whatever new tech has caught my attention.
+Most days also include some competitive programming. I've solved 600+ DSA problems in C++, and I enjoy the way a hard problem forces you to think clearly. Away from the screen, you'll find me into athletics, reading, or exploring whatever new tech has caught my attention.
 
 <br clear="right" />
 
@@ -113,7 +113,7 @@ I'm currently building an AI-based traffic system for Indian roads with [Yashi](
 
 ### 03. Data Structures & Algorithms · Ongoing
 
-My running collection of DSA solutions in C++, from arrays and hashing to recursion, linked lists, trees, graphs and dynamic programming. It's where most of my 560+ solved problems end up, written the way I'd write them in a contest.
+My running collection of DSA solutions in C++, from arrays and hashing to recursion, linked lists, trees, graphs and dynamic programming. It's where most of my 600+ solved problems end up, written the way I'd write them in a contest.
 
 **Stack:** C++. · [Explore the code in the repository](https://github.com/AKSHAT200905/Data-Structures-and-Algorithms)
 
@@ -121,7 +121,7 @@ My running collection of DSA solutions in C++, from arrays and hashing to recurs
 
 ## 🏆 Achievements & Certifications
 
-- **Competitive programming:** 560+ DSA problems solved in C++ · LeetCode 375+ · CodeChef 2★ (1500+) · Codeforces Pupil (1233)
+- **Competitive programming:** 600+ DSA problems solved in C++ · LeetCode 385+ · CodeChef 2★ (1527) · Codeforces Pupil (1233)
 - **Amazon ML Challenge 2026**: built a business entity resolution pipeline across noisy US, India and France data sources
 - **Certifications:** Bayesian Statistics: From Concept to Data Analysis (UC Santa Cruz) · Data Processing and Optimization with Generative AI (Microsoft) · Agentic AI and AI Agents: A Primer for Leaders (Vanderbilt) · Using Descriptive Statistics to Analyze Data in R · CCNA: Introduction to Networks (Cisco)
 
