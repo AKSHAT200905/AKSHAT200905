@@ -5,7 +5,7 @@
   <a href="https://github.com/AKSHAT200905"><img src="https://img.shields.io/badge/GitHub-AKSHAT200905-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/akshat-jain-8b447b345"><img src="https://img.shields.io/badge/LinkedIn-Akshat%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:aj5539392@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://leetcode.com/u/AkJain2005/"><img src="https://img.shields.io/badge/LeetCode-375%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode, 375+ problems solved" /></a>
+  <a href="https://leetcode.com/u/AkJain2005/"><img src="https://img.shields.io/badge/LeetCode-375%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode, 385+ problems solved" /></a>
 </div>
 
 <br />
