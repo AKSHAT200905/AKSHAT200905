@@ -128,7 +128,6 @@ My running collection of DSA solutions in C++, from arrays and hashing to recurs
 <div align="center">
   <a href="https://leetcode.com/u/AkJain2005/"><img src="https://img.shields.io/badge/LeetCode-385+%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://www.codechef.com/users/akshatjain05"><img src="https://img.shields.io/badge/CodeChef-2★%20%7C%201527%2B-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://codeforces.com/profile/brutalmaster5"><img src="https://img.shields.io/badge/Codeforces-Pupil%20%7C%201233-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
 </div>
 
 ---
